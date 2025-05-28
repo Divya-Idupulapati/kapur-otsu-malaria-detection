@@ -120,6 +120,7 @@ This research contributes toward:
 ## 📇 Contact
 
 **Divya Idupulapati**
+
 📍 San Marcos, TX
 
 📧 [idupulapatidivya@gmail.com](mailto:idupulapatidivya@gmail.com)
