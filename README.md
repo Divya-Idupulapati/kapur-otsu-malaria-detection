@@ -5,7 +5,7 @@ A computer vision and machine learning project for segmenting and classifying *P
 
 ---
 
-## 🗂️ Table of Contents
+##  Table of Contents
 
 * [Project Overview](#project-overview)
 * [Problem Statement](#problem-statement)
@@ -19,19 +19,19 @@ A computer vision and machine learning project for segmenting and classifying *P
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Accurate and timely diagnosis of malaria is critical for treatment and control. This project focuses on using image segmentation and machine learning to classify different *Plasmodium* species (P. falciparum, P. malariae, P. vivax) from blood smear images. We use advanced multilevel thresholding techniques — **Kapur’s entropy-based** and **Otsu’s method** — followed by classification using the **Random Forest** algorithm.
 
 ---
 
-## ❓ Problem Statement
+##  Problem Statement
 
 Manual diagnosis of malaria from blood smear images is time-consuming and prone to error. Automating the segmentation and classification of *Plasmodium* species can speed up diagnosis, reduce error, and make expert-level diagnostics accessible in low-resource settings.
 
 ---
 
-## 🎯 Key Objectives
+##  Key Objectives
 
 * Apply Kapur and Otsu thresholding to segment RGB blood smear images.
 * Extract Histogram of Oriented Gradients (HOG) features from segmented images.
@@ -40,7 +40,7 @@ Manual diagnosis of malaria from blood smear images is time-consuming and prone 
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool           | Purpose                            |
 | -------------- | ---------------------------------- |
@@ -53,9 +53,9 @@ Manual diagnosis of malaria from blood smear images is time-consuming and prone 
 
 ---
 
-## 🧪 Methodology
+## Methodology
 
-### 🔍 Segmentation Techniques
+###  Segmentation Techniques
 
 * **Kapur’s Entropy Thresholding**
   Maximizes the entropy of histogram-based segmented regions.
@@ -63,12 +63,12 @@ Manual diagnosis of malaria from blood smear images is time-consuming and prone 
 * **Otsu’s Thresholding**
   Minimizes intra-class variance to find optimal binary segmentation.
 
-### 🔎 Classification
+###  Classification
 
 * HOG feature extraction from segmented images.
 * Classification using **Random Forest Classifier**.
 
-### 🧬 Classes
+###  Classes
 
 * **Plasmodium falciparum**
 * **Plasmodium malariae**
@@ -76,7 +76,7 @@ Manual diagnosis of malaria from blood smear images is time-consuming and prone 
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 * **Kapur’s method** is better for entropy-rich, detailed segmentation.
 * **Otsu’s method** performs better for high-contrast binary segmentation.
@@ -85,7 +85,7 @@ Manual diagnosis of malaria from blood smear images is time-consuming and prone 
 
 ---
 
-## 📊 Results
+##  Results
 
 * **Input**: Raw RGB blood smear images
 * **Process**:
@@ -99,7 +99,7 @@ Manual diagnosis of malaria from blood smear images is time-consuming and prone 
 
 ---
 
-## 🌍 Impact of This Research
+##  Impact of This Research
 
 This research contributes toward:
 
@@ -110,14 +110,14 @@ This research contributes toward:
 
 ---
 
-## 👩‍💻 Authors
+##  Authors
 
 * **Idupulapati Divya** – Nitte Meenakshi Institute of Technology
 * **Dr. Ramachandra A. C** – Nitte Meenakshi Institute of Technology
 
 ---
 
-## 📇 Contact
+##  Contact
 
 **Divya Idupulapati**
 
