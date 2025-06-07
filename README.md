@@ -1,5 +1,5 @@
 
-# 🧬 Malaria Parasite Classification using Kapur & Otsu Thresholding
+#  Malaria Parasite Classification using Kapur & Otsu Thresholding
 
 A computer vision and machine learning project for segmenting and classifying *Plasmodium* species in blood smear images. By integrating Kapur and Otsu multilevel thresholding strategies with a Random Forest classifier, this project aims to automate and improve the diagnostic process for malaria detection.
 
